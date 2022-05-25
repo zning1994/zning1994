@@ -7,7 +7,7 @@ Feeling Next, Touching World.
 
 😄 活跃于机器智能与数据分析、DevOps/SRE运维开发、数学建模、PC/Mobile Web开发、虚拟化、开源社区与区块链等领域。架构学习中。
 
-😍 兴趣驱动，2008年起在互联网耕耘，个人网站张宁网自2008年建立至今已有14余年。
+😍 兴趣驱动，2008年起在互联网耕耘，个人网站「[张宁网](https://www.zning.net.cn)」自2008年建立至今已有14余年。
 
 👍 热爱钻研技术，对Web、Java、Node.js(React)、Python、PHP、C/C++有一定编程能力，了解并可使用Go等编程语言。
 
