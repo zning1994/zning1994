@@ -1,6 +1,8 @@
 ### Hi, my friends 👋
 
-<div align="right">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zning1994&show_icons=true&count_private=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
+
 Feeling Next, Touching World. 
 感知未来，放眼世界。
 
@@ -11,10 +13,8 @@ Feeling Next, Touching World.
 👍 热爱钻研技术，对Web、Java、Node.js(React)、Python、PHP、C/C++有一定编程能力，了解并可使用Go等编程语言。
 
 👉 自研TensorFlow、Git、Docker、Kubernetes、R、树莓派，有多媒体设计(PS/AU/PR/ID)能力，喜欢Markdown、VS Code、Sublime Text、Vim。
-<img src="https://github-readme-stats.vercel.app/api?username=zning1994&show_icons=true&count_private=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
-<br />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zning1994" />
-</div>
 
 <!--
 **zning1994/zning1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
