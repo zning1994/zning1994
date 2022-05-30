@@ -4,13 +4,13 @@
 
 Feeling Next, Touching World. <br />感知未来，放眼世界。
 
-😄 活跃于机器智能与数据分析、DevOps/SRE运维开发、数学建模、PC/Mobile Web开发、虚拟化、开源社区与区块链等领域。架构学习中。
+😄 Active in the fields of Machine Intelligence and Data Analysis, DevOps/SRE, Mathematical Modeling, PC/Mobile Web development, Virtualization, Open Source Community and Blockchain. Architecture learning.<br />活跃于机器智能与数据分析、DevOps/SRE运维开发、数学建模、PC/Mobile Web开发、虚拟化、开源社区与区块链等领域。架构学习中。
 
-😍 兴趣驱动，2008年起在互联网耕耘，个人网站「[张宁网](https://www.zning.net.cn)」自2008年建立至今已有14余年。
+😍 Driven by interest, I have been working on the Internet since 2008. It has been more than 14 years since the establishment of my personal website 「[Zhang Ning Net](https://www.zning.net.cn)」 in 2008,<br />兴趣驱动，2008年起在互联网耕耘，个人网站「[张宁网](https://www.zning.net.cn)」自2008年建立至今已有14余年。
 
-👍 热爱钻研技术，对Web、Java、Node.js(React)、Python、PHP、C/C++有一定编程能力，了解并可使用Go等编程语言。
+👍 Love to study technology, have certain programming ability in Web, Java, Node.js (React), Python, PHP, C/C++, understand and use programming languages such as Go. <br />热爱钻研技术，对Web、Java、Node.js(React)、Python、PHP、C/C++有一定编程能力，了解并可使用Go等编程语言。
 
-👉 自研TensorFlow、Git、Docker、Kubernetes、R、树莓派，有多媒体设计(PS/AU/PR/ID)能力，喜欢Markdown、VS Code、Sublime Text、Vim。
+👉 Interested in studying TensorFlow, Git, Docker, Kubernetes, R, Raspberry Pi, like Markdown, VS Code, Sublime Text, Vim.<br />自研TensorFlow、Git、Docker、Kubernetes、R、树莓派，有多媒体设计(PS/AU/PR/ID)能力，喜欢Markdown、VS Code、Sublime Text、Vim。
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zning1994" />
 
