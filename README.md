@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zning1994&show_icons=true&count_private=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-Feeling Next, Touching World. <br />感知未来，放眼世界。
+Explore the Unknown, Shine the World.<br />触达未竟，慧响寰宇。 
 
 😄 Active in the fields of Machine Intelligence and Data Analysis, DevOps/SRE, Mathematical Modeling, PC/Mobile Web development, Virtualization, Open Source Community and Blockchain. Architecture learning.<br />活跃于机器智能与数据分析、DevOps/SRE运维开发、数学建模、PC/Mobile Web开发、虚拟化、开源社区与区块链等领域。架构学习中。
 
